@@ -1,0 +1,48 @@
+body {
+    background-color: #282828;
+    color: #33FF00;
+}
+pre {
+    font-family: monospace;
+}
+
+a {
+    text-decoration:none;
+}
+
+header a,
+footer a,
+.section a {
+    color: #FFCC00;
+}
+
+header a:hover,
+footer a:hover,
+.section a:hover {
+    color: #FFBB00;
+}
+
+main a {
+    color: #33FF00;
+}
+
+main a:hover {
+    color: #66FF66;
+}
+
+.section,
+.quote {
+    color: #a292ef;
+}
+
+body#home {
+    font-weight: bold;
+}
+
+body#monkeywrench {
+    font-size: 1.2rem;
+}
+
+.emphasize {
+    color: red;
+}
